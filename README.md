@@ -1,6 +1,6 @@
 ## Hello, I'm Cedric!
  
-As a junior software engineer, I am equipped with a diverse skill set including PHP, SQL, NoSQL, PostgreSQL, MySQL, JavaScript, TypeScript, React, C, Redux, and RethinkDB. I am passionate about web development and enjoy creating innovative solutions, building robust applications, and crafting engaging user experiences. With a commitment to continuous learning and collaboration, I am excited to contribute to projects and grow in my career while staying up to date with industry trends and best practices.
+I am passionate about web development and enjoy creating innovative solutions, building robust applications, and crafting engaging user experiences. With a commitment to continuous learning and collaboration, I am excited to contribute to projects and grow in my career while staying up to date with industry trends and best practices.
 
 ### Tools
 <a href="https://javascript.info/">
