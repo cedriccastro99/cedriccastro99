@@ -18,6 +18,12 @@ I am passionate about web development and enjoy creating innovative solutions, b
 <a href="https://www.php.net/">
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="50"/>
 </a>
+<a href="https://tailwindcss.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="50"/>
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50"/>
+</a>
 <a href="https://wiki.postgresql.org/">
   <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSql" width="50"/>
 </a>
