@@ -18,6 +18,15 @@ I am passionate about web development and enjoy creating innovative solutions, b
 <a href="https://www.php.net/">
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="50"/>
 </a>
+<a href="https://jquery.com/">
+  <img src="https://w7.pngwing.com/pngs/90/191/png-transparent-logo-jquery-responsive-web-design-javascript-jquery-logo-text-logo-responsive-web-design.png" alt="Jquery" width="50"/>
+</a>
+<a href="https://nodejs.org/en">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" alt="NodeJS" width="50"/>
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="NodeJS" width="50"/>
+</a>
 <a href="https://tailwindcss.com/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="50"/>
 </a>
