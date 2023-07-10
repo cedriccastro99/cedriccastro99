@@ -1,5 +1,5 @@
-## Hello, I'm Cedric!
- 
+## Hi, I'm Cedric!
+
 I am passionate about web development and enjoy creating innovative solutions, building robust applications, and crafting engaging user experiences. With a commitment to continuous learning and collaboration, I am excited to contribute to projects and grow in my career while staying up to date with industry trends and best practices.
 
 ### Tools
@@ -54,3 +54,7 @@ I am passionate about web development and enjoy creating innovative solutions, b
 - Languages 🌐: 🇺🇸 English, 🇵🇭 Tagalog, 🇵🇭 Bisaya.
 - Email ✉️: cedriccastro150@gmail.com
 ---
+
+<a href="https://www.codewars.com/users/cedriccastro">
+  <img src="https://www.codewars.com/users/cedriccastro/badges/micro" alt="Codewars"/>
+</a>
