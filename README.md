@@ -1,6 +1,8 @@
 ## Hi, I'm Cedric!
 
-I am passionate about web development and enjoy creating innovative solutions, building robust applications, and crafting engaging user experiences. With a commitment to continuous learning and collaboration, I am excited to contribute to projects and grow in my career while staying up to date with industry trends and best practices.
+Fullstack Developer with a Strong Focus on Code Quality and Performance Optimization
+
+Skilled in both frontend and backend development, with hands-on experience in managing and optimizing complex codebases across multiple projects. Proven leader in guiding software engineering teams, ensuring code maintainability, and implementing best practices. Experienced in working closely with cross-functional teams, including UX designers and analysts, to identify and develop targeted program modifications. Proficient in JavaScript, TypeScript, React, Node.js, and other modern frameworks and tools.
 
 ### Tools
 <a href="https://javascript.info/">
@@ -52,7 +54,7 @@ I am passionate about web development and enjoy creating innovative solutions, b
 
 ### Contacts
 - Languages 🌐: 🇺🇸 English, 🇵🇭 Tagalog, 🇵🇭 Bisaya.
-- Email ✉️: cedriccastro150@gmail.com
+- Email ✉️: castro.cedric@outlook.com
 ---
 
 <a href="https://www.codewars.com/users/cedriccastro">
